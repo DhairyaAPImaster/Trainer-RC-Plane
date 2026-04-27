@@ -23,6 +23,14 @@ The following hardware and materials were used in the construction:
 * **Binding:** Extensive use of adhesive tape
 * **Body Material:** Thermocol (Polystyrene)
 
+  Here is the diagrams for the RC Plane (yes i generated the labelling using ai) -
+  <img width="687" height="549" alt="Screenshot 2026-04-27 150029" src="https://github.com/user-attachments/assets/103e9b72-e1ad-4720-a3e5-32ec2a6ae288" />
+
+  Here is the diagram for the elctronic connections-
+  <img width="965" height="547" alt="Screenshot 2026-04-27 150359" src="https://github.com/user-attachments/assets/1bfbd487-3188-47e0-8dde-d556274604df" />
+
+
+
 ## Gallery
 
 
