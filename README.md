@@ -25,7 +25,7 @@ The following hardware and materials were used in the construction:
 
 ## Gallery
 
-### Build and Construction
+
 <p align="center">
   <img width="45%" alt="RC Plane Build View 1" src="https://github.com/user-attachments/assets/18cbab01-fb6a-4d7c-b1b6-f3a75467a855" />
   <img width="45%" alt="RC Plane Build View 2" src="https://github.com/user-attachments/assets/d4281949-40b0-4686-aeeb-317aaf26cedc" />
@@ -36,7 +36,7 @@ The following hardware and materials were used in the construction:
   <img width="45%" alt="RC Plane Tail Section" src="https://github.com/user-attachments/assets/8d74c2bd-55db-4339-b4a9-3293301cdc1c" />
 </p>
 
-### Component Integration
+
 <p align="center">
   <img width="45%" alt="Servo and Pushrod Setup" src="https://github.com/user-attachments/assets/ed9b01ee-bd95-4c6d-bfaf-416864ecd4e2" />
   <img width="45%" alt="Internal Layout" src="https://github.com/user-attachments/assets/981d0954-f6ac-4a94-81cc-b21850e617eb" />
@@ -47,7 +47,7 @@ The following hardware and materials were used in the construction:
   <img width="45%" alt="Fuselage Structure" src="https://github.com/user-attachments/assets/72136f48-b4b7-4bbf-87af-c1723c22fc44" />
 </p>
 
-### Final Assembly
+
 <p align="center">
   <img width="45%" alt="Wing Detail" src="https://github.com/user-attachments/assets/1e99b3a1-74d8-4512-a953-87b809b7c684" />
   <img width="45%" alt="Complete Plane Side View" src="https://github.com/user-attachments/assets/162302c2-df70-4f46-875c-fa2cf67b2735" />
@@ -58,7 +58,7 @@ The following hardware and materials were used in the construction:
   <img width="45%" alt="Control Surfaces" src="https://github.com/user-attachments/assets/57453d6d-6c58-4e55-bf93-bbd43d186b28" />
 </p>
 
-### Testing and Configuration
+
 <p align="center">
   <img width="45%" alt="Radio Calibration" src="https://github.com/user-attachments/assets/900e98bc-9e41-4bc8-b2c1-ace9f1efaf79" />
   <img width="45%" alt="Battery Placement" src="https://github.com/user-attachments/assets/fb30a7a7-a5aa-4cec-9b28-e5477375743e" />
