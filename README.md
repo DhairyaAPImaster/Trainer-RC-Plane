@@ -29,7 +29,7 @@ The following hardware and materials were used in the making of the plane:
 | **FlySky Data Line Cable** | Training via simulator to prevent crashes | 1 | $6.03 | [Link](https://robu.in/product/flysky-data-line-cable-access-wiring-connector-t6-i6-fs-i6-fs-t6-transmitter) | Robu.in |
 | **A2212 Motor Prop Adapter** | To attach the propeller to the motor | 1 | $0.69 | [Link](https://robu.in/product/aa212-motor-prop-adapater-collet-type) | Robu.in |
 | **Propellers 8038 (1CW+1CCW)** | To produce thrust | 1 | $1.14 | [Link](https://robu.in/product/orange-hd-propellers-80388x3-8-abs-1cw1ccw-1pair-black) | Robu.in |
-| **Miscellaneous Parts** | Already owned / To make the plane | — | — | — | Robu.in & RoboCraze |
+| **I already Have all the Other Parts** |To make the plane | — | — | — | Mainly- Robu.in & RoboCraze.com |
 | **TOTAL** | | | **$7.86** | | |
 
 
