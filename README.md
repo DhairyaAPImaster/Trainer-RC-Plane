@@ -41,7 +41,7 @@ I used these things to make the plane-
 | **TOTAL** | | | **$7.86** | | |
 
 
-* Here is the diagram for the elctronic connections-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/19dec505-cfad-4910-8cbe-8c746fbe3a4d" />
+* Here is the diagram for the elctronic connections (ik the handwriting is really bad)-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/19dec505-cfad-4910-8cbe-8c746fbe3a4d" />
 
 
 
