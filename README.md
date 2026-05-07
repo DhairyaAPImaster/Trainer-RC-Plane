@@ -3,8 +3,7 @@
 This project features a scratch built radio controlled aircraft constructed from thermocol and reinforced with heavy duty tape for durability.
 
 ## Overview
-
-The airframe is designed for lightweight flight performance using cost effective materials. Structural integrity is maintained through a combination of tape reinforcement and popsicle stick bracing.
+The airframe is made using thermocol reinforced with tape cause it is lightweight.... (and cause im broke)
 
 ## Components and Materials
 
@@ -18,12 +17,12 @@ The following hardware and materials were used in the construction:
 * **Radio System:** FS i4X Transmitter and receiver
 
 ### Hardware and Structure
-* **Control Surfaces:** Pushrods to connect the servos to the flaps
+* **Control Surfaces:** Pushrods to connect the servos to the flaps (i made one pushrod using a paper clip since all the other pushods i had were too short)
 * **Reinforcement:** Popsicle sticks for structural support
-* **Binding:** Extensive use of adhesive tape
-* **Body Material:** Thermocol (Polystyrene)
-
-  Here is the diagrams for the RC Plane (yes i generated the labelling using ai) -
+* **Binding:** A LOT OF tape and hot glue
+* **Body Material:** Thermocol
+* 
+  Here is the diagrams for the RC Plane -
   <img width="687" height="549" alt="Screenshot 2026-04-27 150029" src="https://github.com/user-attachments/assets/103e9b72-e1ad-4720-a3e5-32ec2a6ae288" />
 
   Here is the diagram for the elctronic connections-
