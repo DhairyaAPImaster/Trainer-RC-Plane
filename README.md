@@ -34,11 +34,11 @@ I used these things to make the plane-
 
 | Name | Purpose | Qty | Total (USD) | Link | Distributor |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| **FlySky Data Line Cable** | Training via simulator to prevent crashes | 1 | $6.03 | [Link](https://robu.in/product/flysky-data-line-cable-access-wiring-connector-t6-i6-fs-i6-fs-t6-transmitter) | Robu.in |
+| **FlySky Data Line Cable** | Training via simulator to prevent crashes | 1 | $6.06 | [Link](https://robu.in/product/flysky-data-line-cable-access-wiring-connector-t6-i6-fs-i6-fs-t6-transmitter) | Robu.in |
 | **A2212 Motor Prop Adapter** | To attach the propeller to the motor | 1 | $0.69 | [Link](https://robu.in/product/aa212-motor-prop-adapater-collet-type) | Robu.in |
-| **Propellers 8038 (1CW+1CCW)** | To produce thrust | 1 | $1.14 | [Link](https://robu.in/product/orange-hd-propellers-80388x3-8-abs-1cw1ccw-1pair-black) | Robu.in |
+| **Propellers 8038** | To produce thrust | 1 | $2.23 | [Link](https://robu.in/product/orange-hd-propellers-80388x3-8-carbon-nylon-1cw1ccw-1pair-black?gad_source=1&gbraid=0AAAAADvLFWe_Uk4yGkLJajec4ObSysbvg&gad_campaignid=17419548928&gclid=CjwKCAjwzevPBhBaEiwAplAxvlDAdYKUCYRQ9PxVCDGi1ABCCm0DUL2h7Yi5wHXkQI_XpZIuJF6K1hoC6BEQAvD_BwE) | Robu.in |
 | **I already Have all the Other Parts** |To make the plane | — | — | — | Mainly- Robu.in & RoboCraze.com |
-| **TOTAL** | | | **$7.86** | | |
+| **TOTAL** | | | **$8.98** | | |
 
 
 * Here is the diagram for the elctronic connections (ik the handwriting is really bad)-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/19dec505-cfad-4910-8cbe-8c746fbe3a4d" />
