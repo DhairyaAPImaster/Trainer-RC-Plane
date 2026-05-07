@@ -21,6 +21,18 @@ The following hardware and materials were used in the making of the plane:
 * **Reinforcement:** Popsicle sticks for structural support
 * **Binding:** A LOT OF tape and hot glue
 * **Body Material:** Thermocol
+
+## Bill of Materials (BOM)
+
+| Name | Purpose | Qty | Total (USD) | Link | Distributor |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **FlySky Data Line Cable** | Training via simulator to prevent crashes | 1 | $6.03 | [Link](https://robu.in/product/flysky-data-line-cable-access-wiring-connector-t6-i6-fs-i6-fs-t6-transmitter) | Robu.in |
+| **A2212 Motor Prop Adapter** | To attach the propeller to the motor | 1 | $0.69 | [Link](https://robu.in/product/aa212-motor-prop-adapater-collet-type) | Robu.in |
+| **Propellers 8038 (1CW+1CCW)** | To produce thrust | 1 | $1.14 | [Link](https://robu.in/product/orange-hd-propellers-80388x3-8-abs-1cw1ccw-1pair-black) | Robu.in |
+| **Miscellaneous Parts** | Already owned / To make the plane | — | — | — | Robu.in & RoboCraze |
+| **TOTAL** | | | **$7.86** | | |
+
+
 * 
   Here is the diagrams for the RC Plane -
   <img width="687" height="549" alt="Screenshot 2026-04-27 150029" src="https://github.com/user-attachments/assets/103e9b72-e1ad-4720-a3e5-32ec2a6ae288" />
