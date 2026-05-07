@@ -5,22 +5,30 @@ This is a radio controlled aircraft made from thermocol and reinforced with heav
 ## Overview
 The plane is made using thermocol reinforced with tape cause it is lightweight.... (and cause im broke)
 
+## Plane Dimensions
+**Wing Thickness:** The Thickest Point of the wing is exactly 3cm thick and the thineest is 0.5 cm thick(near the flaps, trailing edge)
+**Wingspan:** 120cm or around 4 feet long and 19 cm wide(including flaps)
+**Length of fuselage:** The fuselage (excluding horizontal stabaliser and tail) is 60cm long
+**Lenght of tail:** IDK if this is important but anyways length of tail is 14 cm vertically
+**Length of Horizontal Stabalizer/Elevator:** IDK about this too if this is importan but anyways horizontally the elevator is around 38 - 40 cm long
+btw all flaps (and ailerons) have been sliced to be able to move a maximum of 40-45 degrees up and down or right left in case of the tail... yeah i guess thats it in the plane dimensions 
+
 ## Components and Materials
 
-The following hardware and materials were used in the making of the plane:
+I used these things to make the plane- 
 
-### Electronics and Propulsion
+### Electronics
 * **Motor:** Brushless 1400kv motor
 * **Servos:** 4 Micro Servo motors
 * **ESC:** Ready to sky 30A brushless Electronic Speed Controller
 * **Battery:** 1500mAh 3 cell LiPo Battery
 * **Radio System:** FS i4X Transmitter and receiver
 
-### Hardware and Structure
-* **Control Surfaces:** Pushrods to connect the servos to the flaps (i made one pushrod using a paper clip since all the other pushods i had were too short)
-* **Reinforcement:** Popsicle sticks for structural support
-* **Binding:** A LOT OF tape and hot glue
-* **Body Material:** Thermocol
+### For the body
+* **Pushrods** to connect the servos to the flaps (i made one pushrod using a paper clip since all the other pushods i had were too short)
+* **Popsicle sticks** for structural support for the wings
+* **Glue and Tape** A Lot LOt LOT OF tape and hot glue
+* **Thermocol** for the body (obviously)
 
 ## Bill of Materials (BOM)
 
