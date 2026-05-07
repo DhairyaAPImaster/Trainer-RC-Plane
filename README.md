@@ -6,12 +6,12 @@ This is a radio controlled aircraft made from thermocol and reinforced with heav
 The plane is made using thermocol reinforced with tape cause it is lightweight.... (and cause im broke)
 
 ## Plane Dimensions
-**Wing Thickness:** The Thickest Point of the wing is exactly 3cm thick and the thineest is 0.5 cm thick(near the flaps, trailing edge)
-**Wingspan:** 120cm or around 4 feet long and 19 cm wide(including flaps)
-**Length of fuselage:** The fuselage (excluding horizontal stabaliser and tail) is 60cm long
-**Lenght of tail:** IDK if this is important but anyways length of tail is 14 cm vertically
-**Length of Horizontal Stabalizer/Elevator:** IDK about this too if this is importan but anyways horizontally the elevator is around 38 - 40 cm long
-btw all flaps (and ailerons) have been sliced to be able to move a maximum of 40-45 degrees up and down or right left in case of the tail... yeah i guess thats it in the plane dimensions 
+* **Wing Thickness:** The Thickest Point of the wing is exactly 3cm thick and the thineest is 0.5 cm thick(near the flaps, trailing edge)
+* **Wingspan:** 120cm or around 4 feet long and 19 cm wide(including flaps)
+* **Length of fuselage:** The fuselage (excluding horizontal stabaliser and tail) is 60cm long
+* **Lenght of tail:** IDK if this is important but anyways length of tail is 14 cm vertically
+* **Length of Horizontal Stabalizer/Elevator:** IDK about this too if this is importan but anyways horizontally the elevator is around 38 - 40 cm long
+* btw all flaps (and ailerons) have been sliced to be able to move a maximum of 40-45 degrees up and down or right left in case of the tail... yeah i guess thats it in the plane dimensions 
 
 ## Components and Materials
 
