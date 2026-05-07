@@ -1,13 +1,13 @@
 # Custom Thermocol RC Plane
 
-This project is of radio controlled aircraft constructed from thermocol and reinforced with heavy tape for durability.
+This is a radio controlled aircraft made from thermocol and reinforced with heavy tape for durability.
 
 ## Overview
 The plane is made using thermocol reinforced with tape cause it is lightweight.... (and cause im broke)
 
 ## Components and Materials
 
-The following hardware and materials were used in the construction:
+The following hardware and materials were used in the making of the plane:
 
 ### Electronics and Propulsion
 * **Motor:** Brushless 1400kv motor
