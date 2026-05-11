@@ -22,7 +22,7 @@ I used these things to make the plane-
 * **Servos:** 4 Micro Servo motors
 * **ESC:** Ready to sky 30A brushless Electronic Speed Controller
 * **Battery:** 1500mAh 3 cell LiPo Battery
-* **Radio System:** FS i4X Transmitter and receiver
+* **Radio Controller:** FS i4X Transmitter and receiver
 
 ### For the body
 * **Pushrods** to connect the servos to the flaps (i made one pushrod using a paper clip since all the other pushods i had were too short)
