@@ -47,6 +47,15 @@ I used these things to make the plane-
 
 ## Pics-
 
+### CAD- 
+
+<img src="https://stasis.hackclub-assets.com/images/1777538596324-57aoyq.png" alt="image"/>
+<img src="https://stasis.hackclub-assets.com/images/1777538925130-vmspxu.png" alt="image"/>
+<img src="https://stasis.hackclub-assets.com/images/1777538980967-wmnhx8.png" alt="image"/>
+<img src="https://stasis.hackclub-assets.com/images/1777281274271-xv1b1i.png" alt="image"/>
+<img src="https://stasis.hackclub-assets.com/images/1777279549521-039jy5.png" alt="image"/>
+<img src="https://stasis.hackclub-assets.com/images/1777280782584-6demet.png" alt="image"/>
+<img src="https://stasis.hackclub-assets.com/images/1777281354836-z70a8j.png" alt="image"/>
 
 <p align="center">
   <img width="45%" alt="RC Plane Build View 1" src="https://github.com/user-attachments/assets/18cbab01-fb6a-4d7c-b1b6-f3a75467a855" />
